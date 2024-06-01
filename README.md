@@ -16,9 +16,7 @@ Insights from Analysis:
 
 •	Revenue increased by 28.8%, 
 
-•	Total Transaction Amt & Count increased by xx% & xx%
-
-•	Customer count increased by xx% Overview YTD:
+•	Total Transaction Amt & Count increased by 35.04% & 3.39%
 
 •	Overall revenue is 57M
 
